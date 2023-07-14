@@ -10,7 +10,7 @@ Pattern:
 AS A/AN _____ (who?)
 I WANT TO ____ (what?)
 SO THAT _____ (why?)
-'''
+```
 
 Examples:
 
