@@ -1,4 +1,6 @@
 /******************* Reset *****************************/
+/* not needed due to Bootstrap in the code */
+/*
 html {
     box-sizing: border-box;
     font-size: 16px;
@@ -6,10 +8,10 @@ html {
 
 * {
     box-sizing: inherit;
-    /* not needed due to Bootstrap in the code */
-    /* 
     margin: 0;
     padding: 0;
-    */
+
 }
+*/
+
 
