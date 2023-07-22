@@ -1,18 +1,8 @@
 # Wedding Photography Website
 
-Inspiration: https://www.marianagamaweddings.com/
+Hosting Link: https://irishtwins.github.io/wedding-photography-html-css/
 
 ## User Stories
-
-Pattern:
-
-```
-AS A/AN _____ (who?)
-I WANT TO ____ (what?)
-SO THAT _____ (why?)
-```
-
-Examples:
 
 ```
 AS A Couple
@@ -27,3 +17,11 @@ AS A Wedding Organization Assistant
 I WANT TO describe the details of the event 
 SO THAT we can prepare for the event
 ```
+
+## Wireframes
+
+See the wireframes folder for a low-level wireframe.
+
+## Inspiration
+
+https://www.marianagamaweddings.com/
