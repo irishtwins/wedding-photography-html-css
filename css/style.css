@@ -14,4 +14,16 @@ html {
 }
 */
 
+/* ********************* main styles ******************************/
+.features {
+    display: flex;
+    justify-content: space evenly;
+}
 
+.features > .card {
+    width: 28%;
+}
+
+.contact-img-form-container {
+    display: flex;
+}
