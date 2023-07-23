@@ -25,3 +25,7 @@ See the wireframes folder for a low-level wireframe.
 ## Inspiration
 
 https://www.marianagamaweddings.com/
+
+## Credits
+
+-Canva Instagram, Pinterest, and Facebook Icons (https://www.canva.com)

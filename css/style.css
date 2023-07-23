@@ -14,16 +14,43 @@ html {
 }
 */
 
+/* ********************* generic **********************************/
+.centered {
+    text-align: center;
+}
+
 /* ********************* main styles ******************************/
 .features {
     display: flex;
-    justify-content: space evenly;
+    justify-content: space-evenly;
+    margin: 25px 0;
 }
-
 
 .features > .card {
-    width: 28%;
+    display: inline-block;
+    width: 28vw;
+    height: 28vw;
+    background-position: center center;
+    background-size: cover;
 }
+
+.bg-selfies {
+    background-image: linear-gradient(rgba(255, 255, 255, .2), rgba(255, 255, 255, .4)), url("../images/Features1_selfies.png");
+}
+
+.bg-individual {
+    background: linear-gradient(rgba(255, 255, 255, .2), rgba(255, 255, 255, .4)), url("../images/Features2_individual.png");
+}
+
+.bg-elegant {
+    background: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .4)), url("../images/Features3_elegant.png");
+}
+
+.card-heading{
+    text-align: center;
+    padding-top: 12%;
+}
+
 
 .contact-img-form-container {
     display: flex;
@@ -57,9 +84,38 @@ html {
 .column-title {
     border-bottom: 1px solid black;
     padding-bottom: 24px;
-    margin-bottom: 24px;
+    margin-bottom: 24px ;
 }
 
 .column-2-image {
     width: 100%;
+}
+
+.contact {
+    margin: 25px 0;
+}
+
+.contact-img-form-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* ********************* footer styles ******************************/
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.social-icon-container {
+    margin: 10px;
+}
+
+.social-media-icon {
+    width: 40px;
 }
