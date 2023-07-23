@@ -20,10 +20,46 @@ html {
     justify-content: space evenly;
 }
 
+
 .features > .card {
     width: 28%;
 }
 
 .contact-img-form-container {
     display: flex;
+}
+
+
+.text-container, .testimonial {
+    margin: 40px 25%;
+    display: inline-block;
+}
+
+.testimonial {
+    padding-left: 25px;
+    border-left: 1px solid black;
+}
+
+.testimonial-container{
+    background-color: antiquewhite;
+    margin-bottom: 25px;
+}
+
+.columns-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.column-container {
+    margin: 40px 15%;
+}
+
+.column-title {
+    border-bottom: 1px solid black;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+}
+
+.column-2-image {
+    width: 100%;
 }
