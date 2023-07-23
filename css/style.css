@@ -15,6 +15,14 @@ html {
 */
 
 /* ********************* generic **********************************/
+body {
+    min-width: 400px;
+}
+
+ul {
+    padding: 0;
+}
+
 .centered {
     text-align: center;
 }
@@ -114,8 +122,51 @@ footer {
 
 .social-icon-container {
     margin: 10px;
+    display: flex;
+    align-items: center;
 }
 
 .social-media-icon {
     width: 40px;
 }
+
+/********************** media queries ***********************************/
+@media screen and (max-width: 992px) {
+    .contact-image {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .features {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .features > .card {
+        width: 80vw;
+        height: 80vw;
+        margin: 20px auto;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .columns-container {
+        grid-template-columns: 1fr;
+    }
+
+    .text-container,
+    .testimonial {
+        margin: 25px 5%;
+    }
+
+    .column-container {
+        margin: 25px 5%;
+    }
+
+    footer {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
