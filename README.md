@@ -28,4 +28,4 @@ https://www.marianagamaweddings.com/
 
 ## Credits
 
--Canva Instagram, Pinterest, and Facebook Icons (https://www.canva.com)
+- Canva Instagram, Pinterest, and Facebook Icons (https://www.canva.com)
