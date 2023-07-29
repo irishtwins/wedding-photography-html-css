@@ -1,0 +1,161 @@
+<mxfile host="app.diagrams.net" modified="2023-07-29T18:49:04.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="Wz8qWnBi2i40OlJiWpKP" version="21.6.5" type="device">
+  <diagram name="Page-1" id="x0cdPSlds7FfaECbZTO7">
+    <mxGraphModel dx="1688" dy="2799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="-2180" width="691.75" height="1848" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="h9q51YocUdMzCIQfMOK--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kEZ27IXDPpFlflSbEMM7-1" source="kEZ27IXDPpFlflSbEMM7-3" target="kEZ27IXDPpFlflSbEMM7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-3" value="https://www.wedding-site.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-4" value="" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#7C7C7D;align=right;spacing=15;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry y="110" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Wedding Photography&lt;/font&gt;" style="strokeColor=none;html=1;whiteSpace=wrap;fillColor=none;fontColor=#181819;align=left;fontSize=16;spacing=10;" parent="kEZ27IXDPpFlflSbEMM7-4" vertex="1">
+          <mxGeometry width="130" height="40" relative="1" as="geometry">
+            <mxPoint x="290" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-6" value="Home" style="strokeColor=none;html=1;whiteSpace=wrap;fillColor=none;fontColor=#181819;align=left;fontSize=14;spacing=10;" parent="kEZ27IXDPpFlflSbEMM7-4" vertex="1">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-17" value="Photo Shooting" style="strokeColor=none;html=1;whiteSpace=wrap;fillColor=none;fontColor=#181819;align=left;fontSize=14;spacing=10;" parent="kEZ27IXDPpFlflSbEMM7-4" vertex="1">
+          <mxGeometry width="120" height="40" relative="1" as="geometry">
+            <mxPoint x="110" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-63" value="About" style="strokeColor=none;html=1;whiteSpace=wrap;fillColor=none;fontColor=#181819;align=left;fontSize=14;spacing=10;" parent="kEZ27IXDPpFlflSbEMM7-4" vertex="1">
+          <mxGeometry width="60" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-64" value="Contact" style="strokeColor=none;html=1;whiteSpace=wrap;fillColor=none;fontColor=#181819;align=left;fontSize=14;spacing=10;" parent="kEZ27IXDPpFlflSbEMM7-4" vertex="1">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="560" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-71" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;br&gt;&lt;br&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;br&gt;&lt;br&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="30" y="430" width="620" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/PRACTIKA/128/testimonial.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="276" y="630" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-65" value="Moments to Remember" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry y="160" width="690" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-66" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" parent="kEZ27IXDPpFlflSbEMM7-65" vertex="1">
+          <mxGeometry x="1" y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="-50" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-67" value="" style="flipH=1;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" parent="kEZ27IXDPpFlflSbEMM7-65" vertex="1">
+          <mxGeometry y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="43" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-68" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#ffffff;" parent="kEZ27IXDPpFlflSbEMM7-65" vertex="1">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-50" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-69" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" parent="kEZ27IXDPpFlflSbEMM7-65" vertex="1">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-15" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-70" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" parent="kEZ27IXDPpFlflSbEMM7-65" vertex="1">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="20" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-73" value="&lt;h1&gt;Wedding Photographer&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="30" y="770" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-74" value="Contact Me" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="40" y="880" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-76" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="280.33000000000004" y="960" width="119.35" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-98" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="100" y="960" width="119.35" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-75" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="470" y="780" width="119.35" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-121" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="465" y="960" width="119.35" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-122" value="Contact&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="290" y="1160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-123" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="100" y="1250" width="119.35" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-345" value="Submit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="370" y="1620" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-346" value="Copyright" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="75" y="1740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-347" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-128.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="530" y="1750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-348" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/global-top-brands/533/pinterest-128.png" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="571.35" y="1750" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-350" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" parent="kEZ27IXDPpFlflSbEMM7-1" vertex="1">
+          <mxGeometry x="610" y="1748" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-259" value="Email address" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="-870" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-260" value="name@example.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+          <mxGeometry width="280" height="30" relative="1" as="geometry">
+            <mxPoint x="-130" y="-830" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-261" value="Location" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry width="280" height="40" relative="1" as="geometry">
+            <mxPoint x="-130" y="-790" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-262" value="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+          <mxGeometry width="280" height="30" relative="1" as="geometry">
+            <mxPoint x="-130" y="-750" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-273" value="Text" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry width="280" height="40" relative="1" as="geometry">
+            <mxPoint x="-130" y="-710" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-274" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+          <mxGeometry width="280" height="90" relative="1" as="geometry">
+            <mxPoint x="-130" y="-670" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-275" value="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+          <mxGeometry width="280" height="30" relative="1" as="geometry">
+            <mxPoint x="-130" y="-900" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEZ27IXDPpFlflSbEMM7-276" value="Example select" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry width="280" height="40" relative="1" as="geometry">
+            <mxPoint x="-130" y="-940" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
