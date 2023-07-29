@@ -47,15 +47,15 @@ ul {
 }
 
 .bg-selfies {
-    background-image: linear-gradient(rgba(255, 255, 255, .2), rgba(255, 255, 255, .4)), url("../Images/Features1_selfies.png");
+    background-image: linear-gradient(rgba(255, 255, 255, .2), rgba(255, 255, 255, .4)), url("./Images/Features1_selfies.png");
 }
 
 .bg-individual {
-    background: linear-gradient(rgba(255, 255, 255, .2), rgba(255, 255, 255, .4)), url("../Images/Features2_individual.png");
+    background: linear-gradient(rgba(255, 255, 255, .2), rgba(255, 255, 255, .4)), url("./Images/Features2_individual.png");
 }
 
 .bg-elegant {
-    background: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .4)), url("../Images/Features3_elegant.png");
+    background: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .4)), url("./Images/Features3_elegant.png");
 }
 
 .card-heading{
